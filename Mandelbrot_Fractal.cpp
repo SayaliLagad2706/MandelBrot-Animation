@@ -59,7 +59,7 @@ float array2D :: getValue(int x, int y) {
 
 PPMImage :: PPMImage(int xResolution, int yResolution, string imageFileName) : array2D(xResolution, yResolution) {
     filename = imageFileName;
-} // PGMImage
+} // PPMImage
 
 void PPMImage :: getResolution(int &xResolution, int &yResolution){
     getSize(xResolution, yResolution);
