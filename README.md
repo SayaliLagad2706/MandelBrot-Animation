@@ -6,7 +6,7 @@
 - This simple project shows how mathematical equations with minor adjustments in the coefficient values, combined with any coding language can generate visually appealing images.
 
 Technologies Used:
-Language: C++
-IDE: Code::Blocks
-Graphic Viewer: IrfanView
-GIF Creation: https://gifmaker.me/
+- Language: C++
+- IDE: Code::Blocks
+- Graphic Viewer: IrfanView
+- GIF Creation: https://gifmaker.me/
