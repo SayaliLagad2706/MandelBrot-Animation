@@ -6,7 +6,7 @@
 - The result is, a series of .ppm image files, all of which can be converted to .jpg and further combined using any video maker to form an animation.
 - This simple project shows how mathematical equations with minor adjustments in the coefficient values, combined with any coding language can generate visually appealing images.
 
-Technical Details:
+Implementation Details:
   -
   - The mathematical equation for Mandelbrot fractals has 4 coefficients (cxmin, cymin) and (cxmax, cymax). These are diagonal endpoints of a complex-number rectangle. Their values can range anywhere between (-2, -1) and (1, 1) respectively.
   - These values are to be varied to create various zoom patterns of the fractal. The file input.txt contains rows of these values in   order: ‘filename  cxmin  cymin  cxmax  cymax’.
